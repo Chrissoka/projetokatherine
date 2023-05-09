@@ -1,5 +1,5 @@
 # Protjeto final da WoMakersCodes
-**Site para representar e retratar de grandes figuras femininas na ciêcia**
+**Site para representar e retratar as grandes figuras femininas na ciêcia**
 
 # Katherine Jonhson
 ![Kath_Johnson](https://user-images.githubusercontent.com/90460886/236964955-a1b26ba3-5727-4f3b-b478-353a5041cb59.jpg)
