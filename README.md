@@ -4,14 +4,12 @@
 # Katherine Jonhson
 ![]()
 
-# CÓDIGO
-*HTML*
+# :hammer: Objetivos do projeto
 
-*CSS*
+- `Objetivo 1`: Criar um site com as três principais ferramentas web que são o HTML5, CSS3 e Javascript
+- `Objetivo 2`: Utilizar os aprendizados adquiridos durante o curso
+- `Objetivo 3`: Mostrar o pontencial criativo e a capaciade de elaboração de um projeto
 
-*SCRIPT.JS*
+## 📁 Acesso ao projeto
 
-*APP.JS*
-
-##PORTIFÓLIO
-[Portifólio]()
+[Portifólio](https://github.com/Chrissoka/projetokatherine.git)
