@@ -12,7 +12,7 @@
 
 ## 📁 Acesso ao projeto
 
-[Portifólio](https://github.com/Chrissoka/projetokatherine.git)
+[Portifólio](https://chrissoka.github.io/projetokatherine/)
 
 # Autora
 
