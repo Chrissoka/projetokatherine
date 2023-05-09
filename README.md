@@ -16,5 +16,5 @@
 
 # Autora
 
-| [<img src="https://user-images.githubusercontent.com/90460886/236965330-a9f77405-134f-4615-8b53-9d2fa0990e4a.jpeg" width=115><br><sub>Christiane R. Dias</sub>]
+| <img src="https://user-images.githubusercontent.com/90460886/236965330-a9f77405-134f-4615-8b53-9d2fa0990e4a.jpeg" width=115><br><sub>Christiane R. Dias</sub>
 | :---: |
